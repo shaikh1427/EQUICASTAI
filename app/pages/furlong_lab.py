@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import sys
 from pathlib import Path
+import base64
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
@@ -26,10 +27,16 @@ logo_col, text_col, spacer = st.columns(
 )
 
 with logo_col:
-    st.image(FL_ICON.read_bytes(), width="stretch")
+    st.markdown(
+        f'<img src="data:image/png;base64,{base64.b64encode(FL_ICON.read_bytes()).decode()}" style="width:100%;">',
+        unsafe_allow_html=True
+    )
 
 with text_col:
-    st.image(FL_TEXT.read_bytes(), width="stretch")
+    st.markdown(
+        f'<img src="data:image/png;base64,{base64.b64encode(FL_TEXT.read_bytes()).decode()}" style="width:100%;">',
+        unsafe_allow_html=True
+    )
 
 st.subheader("AI-Powered Horse Racing Predictions")
 
