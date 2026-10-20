@@ -1,5 +1,6 @@
 import streamlit as st
 from pathlib import Path
+import base64
 
 ASSETS_DIR = Path(__file__).resolve().parents[2] / "assets"
 
@@ -14,7 +15,10 @@ logo_col, text_col = st.columns(
 )
 
 with logo_col:
-    st.image(EQUICAST_ICON.read_bytes(), width="stretch")
+    st.markdown(
+    f'<img src="data:image/png;base64,{base64.b64encode(EQUICAST_ICON.read_bytes()).decode()}" style="width:100%;">',
+    unsafe_allow_html=True
+)
 
 with text_col:
     st.image(EQUICAST_LOGO.read_bytes(), width="stretch")
