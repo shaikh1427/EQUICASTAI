@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import sys
 from pathlib import Path
+import base64
 
 ASSETS_DIR = Path(__file__).resolve().parents[2] / "assets"
 
@@ -16,10 +17,16 @@ logo_col, text_col, spacer = st.columns(
 )
 
 with logo_col:
-    st.image(SS_ICON.read_bytes(), width="stretch")
+    st.markdown(
+        f'<img src="data:image/png;base64,{base64.b64encode(SS_ICON.read_bytes()).decode()}" style="width:100%;">',
+        unsafe_allow_html=True
+    )
 
 with text_col:
-    st.image(SS_TEXT.read_bytes(), width="stretch")
+    st.markdown(
+        f'<img src="data:image/png;base64,{base64.b64encode(SS_TEXT.read_bytes()).decode()}" style="width:100%;">',
+        unsafe_allow_html=True
+    )
 
 
 css = (ASSETS_DIR / "stallion_sync.css").read_text()
