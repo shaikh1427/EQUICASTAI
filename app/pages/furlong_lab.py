@@ -26,10 +26,10 @@ logo_col, text_col, spacer = st.columns(
 )
 
 with logo_col:
-    st.image(str(FL_ICON), width="stretch")
+    st.image(FL_ICON.read_bytes(), width="stretch")
 
 with text_col:
-    st.image(str(FL_TEXT), width="stretch")
+    st.image(FL_TEXT.read_bytes(), width="stretch")
 
 st.subheader("AI-Powered Horse Racing Predictions")
 

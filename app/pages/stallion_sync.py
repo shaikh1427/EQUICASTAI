@@ -16,10 +16,10 @@ logo_col, text_col, spacer = st.columns(
 )
 
 with logo_col:
-    st.image(str(SS_ICON), width="stretch")
+    st.image(SS_ICON.read_bytes(), width="stretch")
 
 with text_col:
-    st.image(str(SS_TEXT), width="stretch")
+    st.image(SS_TEXT.read_bytes(), width="stretch")
 
 
 css = (ASSETS_DIR / "stallion_sync.css").read_text()

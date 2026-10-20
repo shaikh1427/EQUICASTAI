@@ -14,10 +14,10 @@ logo_col, text_col = st.columns(
 )
 
 with logo_col:
-    st.image(str(EQUICAST_ICON), width="stretch")
+    st.image(EQUICAST_ICON.read_bytes(), width="stretch")
 
 with text_col:
-    st.image(str(EQUICAST_LOGO), width="stretch")
+    st.image(EQUICAST_LOGO.read_bytes(), width="stretch")
 
 
 st.subheader("Artificial Intelligence for the Sport of Kings")
