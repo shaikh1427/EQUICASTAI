@@ -36,6 +36,33 @@ Stallion Sync is a planned analytics product focused on pedigree evaluation, bre
 
 ---
 
+## 📸 Application Showcase
+
+### EquiCast AI — Home
+![EquiCast AI Homepage](screenshots/Homepage.png)
+
+### Furlong Lab — Race Simulation
+![Simulation Settings](screenshots/SimulationSettings.png)
+
+![Race Simulation Results](screenshots/RaceSimulationResults.png)
+
+### Win Probability Analysis
+![Win Probability Chart](screenshots/WinProbabilityChart.png)
+
+### Individual Horse Analysis
+![Individual Horse Analysis](screenshots/IndividualHorseAnalysis.png)
+
+### Advanced Simulation Analytics
+![Advanced Simulation Analytics](screenshots/AdvancedSimulationAnalytics.png)
+
+### Machine Learning vs. Monte Carlo
+![ML vs Monte Carlo](screenshots/MLvsMC.png)
+
+### Stallion Sync — Coming Soon
+![Stallion Sync Landing Page](screenshots/StallionSyncLandingPage.png)
+
+---
+
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
