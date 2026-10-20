@@ -21,8 +21,10 @@ with logo_col:
 )
 
 with text_col:
-    st.image(EQUICAST_LOGO.read_bytes(), width="stretch")
-
+    st.markdown(
+        f'<img src="data:image/png;base64,{base64.b64encode(EQUICAST_LOGO.read_bytes()).decode()}" style="width:100%;">',
+        unsafe_allow_html=True
+    )
 
 st.subheader("Artificial Intelligence for the Sport of Kings")
 
