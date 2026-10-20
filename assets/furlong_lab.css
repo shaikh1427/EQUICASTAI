@@ -1,0 +1,25 @@
+
+/* Furlong Lab Theme */
+
+:root {
+    --fl-background: #050A0F;
+    --fl-secondary: #14171C;
+    --fl-orange: #FF5A00;
+    --fl-ivory: #F8EDD7;
+}
+
+[data-testid="stAppViewContainer"],
+[data-testid="stHeader"] {
+    background-color: var(--fl-background);
+}
+
+[data-testid="stSidebar"] {
+    background-color: var(--fl-secondary);
+}
+
+/* Override Streamlit home page theme colors */
+.stApp {
+    --secondary-background-color: #14171C;
+    --background-color: #050A0F;
+    --primary-color: #FF5A00;
+}

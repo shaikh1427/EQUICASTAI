@@ -1,0 +1,17 @@
+
+/* STALLION SYNC V1.0 THEME */
+
+[data-testid="stAppViewContainer"],
+[data-testid="stHeader"] {
+    background-color: #0C0E19;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #141625;
+}
+
+/* Stallion Sync selected navigation */
+[data-testid="stSidebarNav"] a[aria-current="page"] {
+    background-color: #853DFF;
+    color: #F8EDD7;
+}

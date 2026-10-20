@@ -1,0 +1,110 @@
+race,horse,age,speedfig_avg,grade1_wins,speedfig_peak,closer,stalker,frontrunner,finish
+BC24,Sierra Leone,3,131,1,138,100,0,0,1
+BC24,Fierceness,3,136,3,140,0,30,70,2
+BC24,Forever Young,3,130,0,130,10,70,20,3
+BC24,Newgate,4,125,1,130,20,80,0,4
+BC24,Senor Buscador,6,128,1,130,80,20,0,5
+BC23,White Abbario,4,134,2,137,0,80,20,1
+BC23,Derma Sotogake,3,125,0,125,0,50,50,2
+BC23,Proxy,5,125,0,130,10,90,10,3
+BC23,Arabian Knight,3,124,1,130,0,20,80,4
+BC23,Ushba Tesoro,6,130,1,130,90,10,0,5
+BC22,Flightline,4,146,3,153,0,10,90,1
+BC22,Olympiad,4,128,1,134,10,80,10,2
+BC22,Taiba,3,132,2,137,10,80,10,3
+BC22,Rich Strike,3,122,1,125,90,10,0,4
+BC22,Life is Good,4,133,4,137,0,10,90,5
+BC21,Knicks Go,5,135,4,140,0,10,90,1
+BC21,Medina Spirit,3,125,2,131,0,30,70,2
+BC21,Essential Quality,3,127,4,133,20,75,5,3
+BC21,Hot Rod Charlie,3,136,1,139,10,60,30,4
+BC21,Stilleto Boy,3,117,0,123,80,20,0,5
+BC20,Authentic,3,133,2,140,0,20,80,1
+BC20,Improbable,4,130,4,133,30,65,5,2
+BC20,Global Campaign,4,129,1,131,0,40,60,3
+BC20,Tacitus,4,127,0,127,30,65,5,4
+BC20,Maximum Security,4,128,4,127,0,30,70,5
+Whitney25,Sierra Leone,4,132,2,138,100,0,0,1
+Whitney25,Highland Falls,5,123,1,124,40,60,0,2
+Whitney25,Disarm,4,121,0,123,10,80,10,3
+Whitney25,White Abbario,6,129,4,138,0,80,20,4
+Whitney25,Fierceness,4,127,3,140,0,30,70,5
+PC25,Fierceness,4,127,3,140,0,30,70,1
+PC25,Journalism,3,132,2,139,80,20,0,2
+PC25,Ultimate Gamble,6,121,0,126,10,80,10,3
+SC25,Forever Young,4,135,1,137,30,50,20,1
+SC25,Romantic Warrior,7,135,10,142,20,50,30,2
+SC25,Ushba Tesoro,8,128,1,130,90,10,0,3
+SF25,Mindframe,4,123,1,125,0,70,30,1
+SF25,Sierra Leone,4,134,2,138,90,10,0,2
+SF25,First Mission,5,133,0,136,0,80,20,3
+SF25,Mystik Dan,4,127,1,132,0,90,10,4
+SF25,Hit Show,5,125,1,130,0,90,10,5
+Pegasus25,White Abarrio,6,128,3,138,0,80,20,1
+Pegasus25,Locked,4,128,1,128,60,40,0,2
+Pegasus25,Skippylongstocking,6,121,0,132,10,80,10,3
+Pegasus25,Mixto,5,123,1,126,30,60,10,4
+Pegasus25,Saudi Crown,5,127,1,135,0,10,90,5
+Travers25,Sovereignty,3,136,2,138,60,40,0,1
+Travers25,Bracket Buster,3,124,0,129,20,70,10,2
+Travers25,Magnitude,3,127,0,129,0,50,50,3
+Travers25,McAfee,3,120,0,121,30,70,0,4
+Travers25,Strategic Focus,3,123,0,129,10,80,10,5
+Haskell25,Journalism,3,137,2,130,80,20,0,1
+Haskell25,Gosger,3,135,0,139,0,20,80,2
+Haskell25,Goal Oriented,3,129,0,134,0,70,30,3
+Haskell25,Bracket Buster,3,126,0,129,20,70,10,4
+Haskell25,Burnham Square,3,118,1,188,0,70,30,5
+Haskell25,National Law,3,95,0,107,50,40,10,6
+PD25,Baeza,3,132,0,134,50,50,0,1
+PD25,Magnitude,3,127,0,129,0,50,50,2
+PD25,Goal Oriented,3,126,0,134,0,70,30,3
+PD25,So Sandy,3,116,0,119,50,50,0,4
+PD25,Big Truzz,3,125,0,128,50,50,0,5
+KYD25,Sovereignty,3,116,0,117,80,20,0,1
+KYD25,Journalism,3,125,1,130,80,20,0,2
+KYD25,Baeza,3,121,0,123,80,20,0,3
+KYD25,Final Gambit,3,111,0,122,30,70,0,4
+KYD25,Owen Almighty,3,110,0,114,70,30,0,5
+Belmont25,Sovereignty,3,123,1,131,80,20,0,1
+Belmont25,Journalism,3,134,2,139,80,20,0,2
+Belmont25,Baeza,3,124,0,129,80,20,0,3
+Belmont25,Rodriguez,3,121,0,129,0,40,60,4
+Belmont25,Hill Road,3,106,0,113,50,50,0,5
+BC18,Accelerate,5,130,4,141,20,70,10,1
+BC18,Gunnevera,4,123,0,136,90,10,0,2
+BC18,Thunder Snow,4,131,3,135,0,70,30,3
+BC18,Yoshida,4,110,1,113,70,30,0,4
+BC18,Mendelssohn,3,115,1,130,0,40,60,5
+BC19,Vino Rosso,4,131,1,136,45,50,5,1
+BC19,McKinzie,4,129,4,140,10,80,10,2
+BC19,Higher Power,4,126,1,138,10,80,10,3
+BC19,Elate,5,127,2,135,10,90,0,4
+BC19,Math Wizard,3,102,1,103,90,10,0,5
+BC17,Gun Runner,4,142,4,145,0,40,60,1
+BC17,Collected,4,138,1,139,0,50,50,2
+BC17,West Coast,3,134,2,136,0,70,30,3
+BC17,War Story,5,120,0,133,90,10,0,4
+BC17,Arrogate,4,133,4,155,20,70,10,5
+BC16,Arrogate,3,130,1,145,20,70,10,1
+BC16,California Chrome,5,137,7,145,0,40,60,2
+BC16,Keen Ice,4,121,1,134,95,5,0,3
+BC16,Hoppertunity,5,125,2,135,30,70,0,4
+BC16,Melatonin,5,133,2,135,0,80,20,5
+BC15,American Pharoah,3,137,7,141,0,20,80,1
+BC15,Effinex,4,129,0,138,0,60,40,2
+BC15,Honor Code,4,137,2,140,100,0,0,3
+BC15,Keen Ice,3,135,1,136,100,0,0,4
+BC15,Tonalist,4,137,3,140,20,80,0,5
+DWC25,Hit Show,5,125,0,130,20,80,0,1
+DCW25,Mixto,5,123,0,126,50,50,0,2
+DWC25,Forever Young,4,140,2,142,10,70,20,3
+Goodwood25,Nevada Beach,3,125,0,125,0,100,0,1
+Goodwood25,Full Serrano,6,127,1,130,0,20,80,2
+Goodwood25,Privman,4,118,0,119,0,100,0,3
+Goodwood25,First Mission,5,127,0,136,0,100,0,4
+Goodwood25,Ultimate Gamble,5,118,0,126,0,100,0,5
+Preakness25,Journalism,3,125,1,130,80,20,0,1
+Preakness25,Gosger,3,128,0,132,0,50,50,2
+Preakness25,Sandman,3,117,1,121,60,40,0,3
+Preakness25,Goal Oriented,3,124,0,124,0,50,50,4
