@@ -13,7 +13,7 @@ ASSETS_DIR = Path(__file__).resolve().parents[2] / "assets"
 css = (ASSETS_DIR / "furlong_lab.css").read_text()
 st.html(f"<style>{css}</style>")
 
-FL_ICON = ASSETS_DIR / "FurlongLab" / "FURLONG LAB ICON FL.png"
+FL_ICON = ASSETS_DIR / "FurlongLab" / "FURLONGLAB ICON FL.png"
 FL_TEXT = ASSETS_DIR / "FurlongLab" / "FURLONG LAB TEXT.png"
 
 sys.path.insert(0, str(BASE_DIR))
