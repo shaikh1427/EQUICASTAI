@@ -20,9 +20,9 @@ sys.path.insert(0, str(BASE_DIR))
 
 from scripts.race_simulation import run_simulation
 
-logo_col, text_col, spacer = st.columns(
-    [2.0, 2.8, 0.2],
-    gap="small",
+logo_col, text_col = st.columns(
+    [2.5, 2.8],
+    gap=None,
     vertical_alignment="center"
 )
 
